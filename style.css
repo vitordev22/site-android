@@ -47,13 +47,15 @@ header > h1 {
     font-family: var(--font-titulo-principal);
     text-align: center;
     font-weight: normal;
-    font-size: 3em;
+    font-size: 2.5em;
     padding: 10px;
+    margin-bottom: -10px;
 }
 
 header > p {
     text-align: center;
     padding: 5px;
+    font-size: 0.9em;
 }
 
 nav {
